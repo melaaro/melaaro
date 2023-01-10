@@ -9,17 +9,18 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-
+![Header](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
+![Header](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium)
+![Header]https://img.shields.io/badge/confluence-090909?style=for-the-badge&logo=confluence
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://drive.google.com/drive/folders/1_QqilDY87M8kf-P21wQaGqHGzv1OTCwC?usp=share_link)
+- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1lcnf0kK1_m59UeJhusGkW3gBu22Qjo-G?usp=share_link)
+- [Bug-Reports](https://drive.google.com/drive/folders/1h-kLvaRCnQZ8tMm8rhNjQgXz65bvKex-?usp=share_link)
+- [Postman Collections](https://www.postman.com/lively-comet-137813/workspace/petstore/collection/23344065-591e39f8-76d3-4475-a708-9849e4b08d73?action=share&creator=23344065)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
