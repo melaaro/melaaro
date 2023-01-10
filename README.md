@@ -1,8 +1,8 @@
-[![Header](https://github.com/melaaro/melaaro/blob/main/assets/header%pic.png)]
+[![Header](https://github.com/melaaro/melaaro/blob/main/assets/header%20pic.png)]
 ## I'm a QA Engineer. 
  
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/1cNap7Jw0EqU8Gh0xtG9sF6DaWHBV98Iy/view?usp=share_link)
 
 ## Latest Youtube Videos
 
