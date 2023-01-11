@@ -1,4 +1,4 @@
-[![Header](https://github.com/melaaro/melaaro/blob/main/assets/header%20pic.png)](https://github.com/melaaro/melaaro)
+[![Header](https://github.com/melaaro/melaaro/blob/main/assets/header%20pic(2).png)](https://github.com/melaaro/melaaro)
 ## I'm a QA Engineer. 
  
 ## My CV
