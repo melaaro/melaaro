@@ -2,17 +2,19 @@
 ## I'm Manual QA Engineer. 
  
 ## My CV
--
+Coming soon...
 
 ### Language and Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Kibana-090909?style=for-the-badge&logo=kibana)
+![Header](https://img.shields.io/badge/Kafka-090909?style=for-the-badge&logo=kafka)
+![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
 ![Header](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/confluence-090909?style=for-the-badge&logo=confluence)
 
 ### Follow Me
